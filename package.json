@@ -1,0 +1,29 @@
+{
+  "name": "homework702",
+  "version": "1.0.0",
+  "description": "autor: 'sanhcez58@gmail.com'",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ro1dex/homework702.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ro1dex/homework702/issues"
+  },
+  "homepage": "https://github.com/Ro1dex/homework702#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "eslint": "^8.56.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "3.2.5",
+    "typescript": "^5.3.3"
+  }
+}
